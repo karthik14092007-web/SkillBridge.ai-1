@@ -1,4 +1,4 @@
-# SkillBridge.ai - SIH 2026 Problem Statement 26044
+# SkillBridge.ai 
 
 ### AI-Powered Academia–Industry Collaboration & Verified Talent Gateway
 
